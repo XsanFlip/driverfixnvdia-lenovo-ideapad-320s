@@ -1,0 +1,1 @@
+# driverfixnvdia-lenovo-ideapad-320s
